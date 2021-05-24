@@ -14,9 +14,9 @@ Google Maps API , Dexter Library , SQlite , CircleImageview Library
 ###  API used:
 Google Maps API
 ## Explanation of the app:
-1)This app fetches news from the NEWS API.  
-2)The news fetched and then bind the news with recycler view and using Glide Library we take the cover image of the news.  
-3)Then the user of the app can click on the image on the news and open the news article in chrome to read the full news article.  
+1)ed the GOOGLE MAPS API to locate the users place.
+2)ed Dexter Library to handle permissions and saved happy places via SQLITE and also used
+third party library CircleImageView.
 
 ## Screenshots of the App:
 
