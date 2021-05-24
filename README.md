@@ -14,8 +14,8 @@ Google Maps API , Dexter Library , SQlite , CircleImageview Library
 ###  API used:
 Google Maps API
 ## Explanation of the app:
-1)ed the GOOGLE MAPS API to locate the users place.
-2)ed Dexter Library to handle permissions and saved happy places via SQLITE and also used
+1)Used the GOOGLE MAPS API to locate the users place.  
+2)Used Dexter Library to handle permissions and saved happy places via SQLITE and also used
 third party library CircleImageView.
 
 ## Screenshots of the App:
